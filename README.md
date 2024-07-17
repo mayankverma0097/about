@@ -5,7 +5,8 @@
 
 
 
-**Python 
+**Python**
+![[python.png|300]]
 
 
 
