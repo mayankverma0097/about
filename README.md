@@ -13,6 +13,7 @@
 
 <img src="./c.png" alt="python" width="150px">    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      <img src="./java.png" alt="python" width="200px">
 
+<img src="./html.png" alt="python" width="150px"> 
 
 Python is a Object Oriented programming language which is used for many purpose like software development , web development , machine learning etc.
 
