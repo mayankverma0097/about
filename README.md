@@ -8,7 +8,7 @@
 **Python**
 
 
-<img src="./python.png" alt="python">
+<img src="./python.png" alt="python" width="300px">
 
 
 
