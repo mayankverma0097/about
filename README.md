@@ -6,7 +6,9 @@
 
 
 **Python**
-![[python.png|300]]
+
+
+<img src="./python.png" alt="python">
 
 
 
