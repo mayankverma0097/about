@@ -23,6 +23,7 @@
 # Projects
 
 <br>
+
  * **Blogging Site Using flask**
 <br><br>
 <img src="./blogbloom.png" alt="python" width="500px">
