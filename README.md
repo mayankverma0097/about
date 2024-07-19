@@ -30,8 +30,8 @@
 
 <br><br>
 
-* **Source Code**     &nbsp;&nbsp;&nbsp;&nbsp;  **Open Source** &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mayankverma0097/BlogBloom"> **View** </a>
+
+  <a href="https://blogbloom.vercel.app"> **View** </a>
 
 
 
