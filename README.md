@@ -25,6 +25,6 @@
 <br><br><br>
 **Blogging Site Using flask**
 <br><br>
-<img src="./css.png" alt="python" width="150px">
+<img src="./blogbloom.png" alt="python" width="150px">
 
 
