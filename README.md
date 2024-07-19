@@ -1,11 +1,11 @@
 # about
 
 
-# Languages
 
 
 
-**Skills**
+
+# Skills
 
 
 <img src="./python.png" alt="python" width="200px">    <img src="./flask.jpg" alt="python" width="300px">  <img src="./django.png" alt="python" width="150px">
