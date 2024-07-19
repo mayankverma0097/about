@@ -17,6 +17,13 @@
 
 <img src="./css.png" alt="python" width="150px">    <img src="./mysql.png" alt="python" width="400px"> <img src="./mongodb.png" alt="python" width="250px"> 
 
-Python is a Object Oriented programming language which is used for many purpose like software development , web development , machine learning etc.
+
+<br><br><br>
+
+# Projects
+
+**Blogging Site Using flask**
+
+<img src="./css.png" alt="python" width="150px">
 
 
