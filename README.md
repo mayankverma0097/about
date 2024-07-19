@@ -31,7 +31,7 @@
 <br><br>
 
 
-  <a href="https://blogbloom.vercel.app" style="color:yellow;"> **View** </a>
+  <a href="https://blogbloom.vercel.app"> **View** </a>
 
 
 
