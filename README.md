@@ -22,14 +22,14 @@
 
 # Projects
 
-<br><br><br> 
+<br>
  * **Blogging Site Using flask**
 <br><br>
 <img src="./blogbloom.png" alt="python" width="500px">
 
 <br><br>
 
-* **Source Code**     &nbsp;&nbsp;&nbsp;&nbsp;
+* **Source Code**     &nbsp;&nbsp;&nbsp;&nbsp;  **Open Source**
   <a href="https://github.com/mayankverma0097/BlogBloom"> **View** </a>
 
 
